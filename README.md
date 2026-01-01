@@ -1,1 +1,1 @@
-"# WinKernelCode" 
+根据《Windows内核编程》编写的配套练习用代码
