@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DriverProject\\FirstDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EC6801-16F3-E6D8-EA93-C36AE3859FB7}|FirstDriver.vcxproj|D:\\DriverProject\\FirstDriver\\First.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8EC6801-16F3-E6D8-EA93-C36AE3859FB7}|FirstDriver.vcxproj|solutionrelative:First.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.c",
+              "DocumentMoniker": "D:\\DriverProject\\FirstDriver\\First.c",
+              "RelativeDocumentMoniker": "First.c",
+              "ToolTip": "D:\\DriverProject\\FirstDriver\\First.c",
+              "RelativeToolTip": "First.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-03T20:20:05.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
